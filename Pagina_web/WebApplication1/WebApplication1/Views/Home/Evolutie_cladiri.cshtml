@@ -1,0 +1,48 @@
+﻿@{
+    ViewData["Title"] = "Evoluția numărului de clădiri";
+}
+<html>
+<head>
+    <div style="width:650px; margin:0 auto;">
+        <script type="text/javascript" src="https://www.gstatic.com/charts/loader.js"></script>
+        <script type="text/javascript">
+            google.charts.load('current', { 'packages': ['corechart'] });
+            google.charts.setOnLoadCallback(drawChart);
+
+            function drawChart() {
+                var data = google.visualization.arrayToDataTable([
+                    ['Ani', 'Clădiri'],
+                    ['1510', 1311],
+                    ['1766', 1156],
+                    ['1785', 1637],
+                    ['1787', 1796],
+                    ['1841', 2575],
+                    ['1905', 2575],
+                    ['1992', 14477],
+                    ['2002', 15086],
+                    ['2011', 16095]
+                ]);
+
+                var options = {
+                    title: 'Evoluția numărului de clădiri 1510-2011',
+                    curveType: 'function',
+                    legend: { position: 'bottom' }
+                };
+
+                var chart = new google.visualization.LineChart(document.getElementById('curve_chart'));
+
+                chart.draw(data, options);
+            }
+        </script>
+    </div>
+    <h2>@ViewData["Title"]</h2>
+    <h3>@ViewData["Message"]</h3>
+
+    <p>Odată cu venirea dinastiei Habsburgice în fruntea Transilvaniei, s-au realizat și primele recensăminte atât ale populației cât și ale numărului de clădiri. Anii în care s-au realizat recensăminte asupra numărului de clădiri din Sibiu au fost: 1766, 1776, 1785, 1787. În anul 1766 în oraș au fost înregistrate 1156 de clădiri în timp ce 10 ani mai târziu în anul 1776 numărul acestora a crescut la 1228 clădiri, cu 72 mai mult. În anul 1785 în oraș existau 1637 clădiri, din care se precizează că  1145 erau construite în interiorul sistemului de fortificații iar 492 în exteriorul zidurilor. Un lucru  interesant se poate observa în datele asupra numărului de clădiri din Sibiu din anul 1787 unde se poate observa o creștere semnificativă a numărului de clădiri din afara zidurilor de fortificații, numărul acestora crescând la 624 de clădiri în timp ce în interiorul zidurilor  numărul clădirilor a crescut 1161. Aceste creșteri ale numărului de clădiri construite în afara incintei fortificate se datorează și faptului că în acea perioada au fost fondate și dezvoltate cartierele Iosefin și Terezian. Unul din cele mai detaliate recensăminte asupra situației numărului de clădiri din oraș este cel din anul 1841, unde în Sibiu existau 1796 de clădiri, 1117 în interiorul zidurilor de fortificații, din care 667 erau în Orașul de Jos și 450 în cel de Sus. În suburbiile orașului erau construite 666 de clădiri iar în așa numita ”țigănie” erau construite 193 de clădiri.</p>
+    <p>În anul 1902 în oraș existau 2572 de clădiri, o creștere mare, o creștere datorată demolării intense a sistemului de fortificații în scopul creării de noi locuri pentru construit și pentru extinderea orașului. Între 1902 și 1992 există o mare lipsă de date, nereușind să găsesc informații despre numărul de clădiri din perioada de după unirea Transilvaniei cu România și nici din perioada regimului comunist. În anul 1992, datele culese din recensământ ne arată că în Sibiu erau construite 14.447 clădiri, un factor ce a dus la creșterea mare a numărului de clădiri a fost și faptul că fostele sate săsești Gușterița (în anii ’40) și Turnișor (în anii ‘70) au fost alipite orașului. În 2002 în oraș au fost înregistrate 15.086 de clădiri în timp ce la ultimul recensământ realizat în Romania în anul 2011, în Sibiu erau construite 16.095 clădiri la o populație de 147.245 locuitori.</p>
+    <p>După cum am menționat mai sus, primul cartier al orașului a fost cartierul Iosefin, luând ”naștere” după vizita Impăratului austriac după sistarea lucrărilor construcției citadelei, însă după 284 de ani, în momentul de față în Sibiu există 21 cartiere, acestea fiind: zona Centrală, Trei Stejari, Lupeni, Vasile Aaron. Iosefin, Dumbrăvii, Terezian, Hipodrom, Valea Aurie, Tilișca, Ștrand, Piața Cluj, Țiglari, Reșița, Gușterița, Turnișor, Lazaret, Broscărie, Tineretului, Viile Sibiului și Veteranilor.</p>
+</head>
+<body>
+    <div style="width:650px; margin:0 auto;" id="curve_chart" style="width: 900px; height: 500px"></div>
+</body>
+</html>

@@ -1,0 +1,417 @@
+c:\users\chris\documents\visual studio 2017\Projects\WebApplication1\WebApplication1\bin\Debug\net452\win7-x86\WebApplication1.exe.config
+c:\users\chris\documents\visual studio 2017\Projects\WebApplication1\WebApplication1\bin\Debug\net452\win7-x86\WebApplication1.deps.json
+c:\users\chris\documents\visual studio 2017\Projects\WebApplication1\WebApplication1\bin\Debug\net452\win7-x86\WebApplication1.runtimeconfig.json
+c:\users\chris\documents\visual studio 2017\Projects\WebApplication1\WebApplication1\bin\Debug\net452\win7-x86\WebApplication1.runtimeconfig.dev.json
+c:\users\chris\documents\visual studio 2017\Projects\WebApplication1\WebApplication1\bin\Debug\net452\win7-x86\WebApplication1.exe
+c:\users\chris\documents\visual studio 2017\Projects\WebApplication1\WebApplication1\bin\Debug\net452\win7-x86\WebApplication1.pdb
+c:\users\chris\documents\visual studio 2017\Projects\WebApplication1\WebApplication1\bin\Debug\net452\win7-x86\libuv.dll
+c:\users\chris\documents\visual studio 2017\Projects\WebApplication1\WebApplication1\bin\Debug\net452\win7-x86\Microsoft.ApplicationInsights.dll
+c:\users\chris\documents\visual studio 2017\Projects\WebApplication1\WebApplication1\bin\Debug\net452\win7-x86\Microsoft.AI.Agent.Intercept.dll
+c:\users\chris\documents\visual studio 2017\Projects\WebApplication1\WebApplication1\bin\Debug\net452\win7-x86\Microsoft.ApplicationInsights.AspNetCore.dll
+c:\users\chris\documents\visual studio 2017\Projects\WebApplication1\WebApplication1\bin\Debug\net452\win7-x86\Microsoft.AI.DependencyCollector.dll
+c:\users\chris\documents\visual studio 2017\Projects\WebApplication1\WebApplication1\bin\Debug\net452\win7-x86\Microsoft.AI.PerfCounterCollector.dll
+c:\users\chris\documents\visual studio 2017\Projects\WebApplication1\WebApplication1\bin\Debug\net452\win7-x86\Microsoft.AI.ServerTelemetryChannel.dll
+c:\users\chris\documents\visual studio 2017\Projects\WebApplication1\WebApplication1\bin\Debug\net452\win7-x86\Microsoft.AspNetCore.Antiforgery.dll
+c:\users\chris\documents\visual studio 2017\Projects\WebApplication1\WebApplication1\bin\Debug\net452\win7-x86\Microsoft.AspNetCore.Authorization.dll
+c:\users\chris\documents\visual studio 2017\Projects\WebApplication1\WebApplication1\bin\Debug\net452\win7-x86\Microsoft.AspNetCore.Cors.dll
+c:\users\chris\documents\visual studio 2017\Projects\WebApplication1\WebApplication1\bin\Debug\net452\win7-x86\Microsoft.AspNetCore.Cryptography.Internal.dll
+c:\users\chris\documents\visual studio 2017\Projects\WebApplication1\WebApplication1\bin\Debug\net452\win7-x86\Microsoft.AspNetCore.DataProtection.dll
+c:\users\chris\documents\visual studio 2017\Projects\WebApplication1\WebApplication1\bin\Debug\net452\win7-x86\Microsoft.AspNetCore.DataProtection.Abstractions.dll
+c:\users\chris\documents\visual studio 2017\Projects\WebApplication1\WebApplication1\bin\Debug\net452\win7-x86\Microsoft.AspNetCore.Diagnostics.dll
+c:\users\chris\documents\visual studio 2017\Projects\WebApplication1\WebApplication1\bin\Debug\net452\win7-x86\Microsoft.AspNetCore.Diagnostics.Abstractions.dll
+c:\users\chris\documents\visual studio 2017\Projects\WebApplication1\WebApplication1\bin\Debug\net452\win7-x86\Microsoft.AspNetCore.Hosting.dll
+c:\users\chris\documents\visual studio 2017\Projects\WebApplication1\WebApplication1\bin\Debug\net452\win7-x86\Microsoft.AspNetCore.Hosting.Abstractions.dll
+c:\users\chris\documents\visual studio 2017\Projects\WebApplication1\WebApplication1\bin\Debug\net452\win7-x86\Microsoft.AspNetCore.Hosting.Server.Abstractions.dll
+c:\users\chris\documents\visual studio 2017\Projects\WebApplication1\WebApplication1\bin\Debug\net452\win7-x86\Microsoft.AspNetCore.Html.Abstractions.dll
+c:\users\chris\documents\visual studio 2017\Projects\WebApplication1\WebApplication1\bin\Debug\net452\win7-x86\Microsoft.AspNetCore.Http.dll
+c:\users\chris\documents\visual studio 2017\Projects\WebApplication1\WebApplication1\bin\Debug\net452\win7-x86\Microsoft.AspNetCore.Http.Abstractions.dll
+c:\users\chris\documents\visual studio 2017\Projects\WebApplication1\WebApplication1\bin\Debug\net452\win7-x86\Microsoft.AspNetCore.Http.Extensions.dll
+c:\users\chris\documents\visual studio 2017\Projects\WebApplication1\WebApplication1\bin\Debug\net452\win7-x86\Microsoft.AspNetCore.Http.Features.dll
+c:\users\chris\documents\visual studio 2017\Projects\WebApplication1\WebApplication1\bin\Debug\net452\win7-x86\Microsoft.AspNetCore.HttpOverrides.dll
+c:\users\chris\documents\visual studio 2017\Projects\WebApplication1\WebApplication1\bin\Debug\net452\win7-x86\Microsoft.AspNetCore.JsonPatch.dll
+c:\users\chris\documents\visual studio 2017\Projects\WebApplication1\WebApplication1\bin\Debug\net452\win7-x86\Microsoft.AspNetCore.Localization.dll
+c:\users\chris\documents\visual studio 2017\Projects\WebApplication1\WebApplication1\bin\Debug\net452\win7-x86\Microsoft.AspNetCore.Mvc.dll
+c:\users\chris\documents\visual studio 2017\Projects\WebApplication1\WebApplication1\bin\Debug\net452\win7-x86\Microsoft.AspNetCore.Mvc.Abstractions.dll
+c:\users\chris\documents\visual studio 2017\Projects\WebApplication1\WebApplication1\bin\Debug\net452\win7-x86\Microsoft.AspNetCore.Mvc.ApiExplorer.dll
+c:\users\chris\documents\visual studio 2017\Projects\WebApplication1\WebApplication1\bin\Debug\net452\win7-x86\Microsoft.AspNetCore.Mvc.Core.dll
+c:\users\chris\documents\visual studio 2017\Projects\WebApplication1\WebApplication1\bin\Debug\net452\win7-x86\Microsoft.AspNetCore.Mvc.Cors.dll
+c:\users\chris\documents\visual studio 2017\Projects\WebApplication1\WebApplication1\bin\Debug\net452\win7-x86\Microsoft.AspNetCore.Mvc.DataAnnotations.dll
+c:\users\chris\documents\visual studio 2017\Projects\WebApplication1\WebApplication1\bin\Debug\net452\win7-x86\Microsoft.AspNetCore.Mvc.Formatters.Json.dll
+c:\users\chris\documents\visual studio 2017\Projects\WebApplication1\WebApplication1\bin\Debug\net452\win7-x86\Microsoft.AspNetCore.Mvc.Localization.dll
+c:\users\chris\documents\visual studio 2017\Projects\WebApplication1\WebApplication1\bin\Debug\net452\win7-x86\Microsoft.AspNetCore.Mvc.Razor.dll
+c:\users\chris\documents\visual studio 2017\Projects\WebApplication1\WebApplication1\bin\Debug\net452\win7-x86\Microsoft.AspNetCore.Mvc.Razor.Host.dll
+c:\users\chris\documents\visual studio 2017\Projects\WebApplication1\WebApplication1\bin\Debug\net452\win7-x86\Microsoft.AspNetCore.Mvc.TagHelpers.dll
+c:\users\chris\documents\visual studio 2017\Projects\WebApplication1\WebApplication1\bin\Debug\net452\win7-x86\Microsoft.AspNetCore.Mvc.ViewFeatures.dll
+c:\users\chris\documents\visual studio 2017\Projects\WebApplication1\WebApplication1\bin\Debug\net452\win7-x86\Microsoft.AspNetCore.Razor.dll
+c:\users\chris\documents\visual studio 2017\Projects\WebApplication1\WebApplication1\bin\Debug\net452\win7-x86\Microsoft.AspNetCore.Razor.Runtime.dll
+c:\users\chris\documents\visual studio 2017\Projects\WebApplication1\WebApplication1\bin\Debug\net452\win7-x86\Microsoft.AspNetCore.ResponseCaching.Abstractions.dll
+c:\users\chris\documents\visual studio 2017\Projects\WebApplication1\WebApplication1\bin\Debug\net452\win7-x86\Microsoft.AspNetCore.Routing.dll
+c:\users\chris\documents\visual studio 2017\Projects\WebApplication1\WebApplication1\bin\Debug\net452\win7-x86\Microsoft.AspNetCore.Routing.Abstractions.dll
+c:\users\chris\documents\visual studio 2017\Projects\WebApplication1\WebApplication1\bin\Debug\net452\win7-x86\Microsoft.AspNetCore.Server.IISIntegration.dll
+c:\users\chris\documents\visual studio 2017\Projects\WebApplication1\WebApplication1\bin\Debug\net452\win7-x86\Microsoft.AspNetCore.Server.Kestrel.dll
+c:\users\chris\documents\visual studio 2017\Projects\WebApplication1\WebApplication1\bin\Debug\net452\win7-x86\Microsoft.AspNetCore.StaticFiles.dll
+c:\users\chris\documents\visual studio 2017\Projects\WebApplication1\WebApplication1\bin\Debug\net452\win7-x86\Microsoft.AspNetCore.WebUtilities.dll
+c:\users\chris\documents\visual studio 2017\Projects\WebApplication1\WebApplication1\bin\Debug\net452\win7-x86\Microsoft.CodeAnalysis.dll
+c:\users\chris\documents\visual studio 2017\Projects\WebApplication1\WebApplication1\bin\Debug\net452\win7-x86\Microsoft.CodeAnalysis.CSharp.dll
+c:\users\chris\documents\visual studio 2017\Projects\WebApplication1\WebApplication1\bin\Debug\net452\win7-x86\Microsoft.DotNet.PlatformAbstractions.dll
+c:\users\chris\documents\visual studio 2017\Projects\WebApplication1\WebApplication1\bin\Debug\net452\win7-x86\Microsoft.Extensions.Caching.Abstractions.dll
+c:\users\chris\documents\visual studio 2017\Projects\WebApplication1\WebApplication1\bin\Debug\net452\win7-x86\Microsoft.Extensions.Caching.Memory.dll
+c:\users\chris\documents\visual studio 2017\Projects\WebApplication1\WebApplication1\bin\Debug\net452\win7-x86\Microsoft.Extensions.Configuration.dll
+c:\users\chris\documents\visual studio 2017\Projects\WebApplication1\WebApplication1\bin\Debug\net452\win7-x86\Microsoft.Extensions.Configuration.Abstractions.dll
+c:\users\chris\documents\visual studio 2017\Projects\WebApplication1\WebApplication1\bin\Debug\net452\win7-x86\Microsoft.Extensions.Configuration.Binder.dll
+c:\users\chris\documents\visual studio 2017\Projects\WebApplication1\WebApplication1\bin\Debug\net452\win7-x86\Microsoft.Extensions.Configuration.EnvironmentVariables.dll
+c:\users\chris\documents\visual studio 2017\Projects\WebApplication1\WebApplication1\bin\Debug\net452\win7-x86\Microsoft.Extensions.Configuration.FileExtensions.dll
+c:\users\chris\documents\visual studio 2017\Projects\WebApplication1\WebApplication1\bin\Debug\net452\win7-x86\Microsoft.Extensions.Configuration.Json.dll
+c:\users\chris\documents\visual studio 2017\Projects\WebApplication1\WebApplication1\bin\Debug\net452\win7-x86\Microsoft.Extensions.DependencyInjection.dll
+c:\users\chris\documents\visual studio 2017\Projects\WebApplication1\WebApplication1\bin\Debug\net452\win7-x86\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+c:\users\chris\documents\visual studio 2017\Projects\WebApplication1\WebApplication1\bin\Debug\net452\win7-x86\Microsoft.Extensions.DependencyModel.dll
+c:\users\chris\documents\visual studio 2017\Projects\WebApplication1\WebApplication1\bin\Debug\net452\win7-x86\Microsoft.Extensions.DiagnosticAdapter.dll
+c:\users\chris\documents\visual studio 2017\Projects\WebApplication1\WebApplication1\bin\Debug\net452\win7-x86\Microsoft.Extensions.FileProviders.Abstractions.dll
+c:\users\chris\documents\visual studio 2017\Projects\WebApplication1\WebApplication1\bin\Debug\net452\win7-x86\Microsoft.Extensions.FileProviders.Composite.dll
+c:\users\chris\documents\visual studio 2017\Projects\WebApplication1\WebApplication1\bin\Debug\net452\win7-x86\Microsoft.Extensions.FileProviders.Physical.dll
+c:\users\chris\documents\visual studio 2017\Projects\WebApplication1\WebApplication1\bin\Debug\net452\win7-x86\Microsoft.Extensions.FileSystemGlobbing.dll
+c:\users\chris\documents\visual studio 2017\Projects\WebApplication1\WebApplication1\bin\Debug\net452\win7-x86\Microsoft.Extensions.Globalization.CultureInfoCache.dll
+c:\users\chris\documents\visual studio 2017\Projects\WebApplication1\WebApplication1\bin\Debug\net452\win7-x86\Microsoft.Extensions.Localization.dll
+c:\users\chris\documents\visual studio 2017\Projects\WebApplication1\WebApplication1\bin\Debug\net452\win7-x86\Microsoft.Extensions.Localization.Abstractions.dll
+c:\users\chris\documents\visual studio 2017\Projects\WebApplication1\WebApplication1\bin\Debug\net452\win7-x86\Microsoft.Extensions.Logging.dll
+c:\users\chris\documents\visual studio 2017\Projects\WebApplication1\WebApplication1\bin\Debug\net452\win7-x86\Microsoft.Extensions.Logging.Abstractions.dll
+c:\users\chris\documents\visual studio 2017\Projects\WebApplication1\WebApplication1\bin\Debug\net452\win7-x86\Microsoft.Extensions.Logging.Console.dll
+c:\users\chris\documents\visual studio 2017\Projects\WebApplication1\WebApplication1\bin\Debug\net452\win7-x86\Microsoft.Extensions.Logging.Debug.dll
+c:\users\chris\documents\visual studio 2017\Projects\WebApplication1\WebApplication1\bin\Debug\net452\win7-x86\Microsoft.Extensions.ObjectPool.dll
+c:\users\chris\documents\visual studio 2017\Projects\WebApplication1\WebApplication1\bin\Debug\net452\win7-x86\Microsoft.Extensions.Options.dll
+c:\users\chris\documents\visual studio 2017\Projects\WebApplication1\WebApplication1\bin\Debug\net452\win7-x86\Microsoft.Extensions.Options.ConfigurationExtensions.dll
+c:\users\chris\documents\visual studio 2017\Projects\WebApplication1\WebApplication1\bin\Debug\net452\win7-x86\Microsoft.Extensions.PlatformAbstractions.dll
+c:\users\chris\documents\visual studio 2017\Projects\WebApplication1\WebApplication1\bin\Debug\net452\win7-x86\Microsoft.Extensions.Primitives.dll
+c:\users\chris\documents\visual studio 2017\Projects\WebApplication1\WebApplication1\bin\Debug\net452\win7-x86\Microsoft.Extensions.WebEncoders.dll
+c:\users\chris\documents\visual studio 2017\Projects\WebApplication1\WebApplication1\bin\Debug\net452\win7-x86\Microsoft.Net.Http.Headers.dll
+c:\users\chris\documents\visual studio 2017\Projects\WebApplication1\WebApplication1\bin\Debug\net452\win7-x86\Microsoft.VisualStudio.Web.BrowserLink.dll
+c:\users\chris\documents\visual studio 2017\Projects\WebApplication1\WebApplication1\bin\Debug\net452\win7-x86\Newtonsoft.Json.dll
+c:\users\chris\documents\visual studio 2017\Projects\WebApplication1\WebApplication1\bin\Debug\net452\win7-x86\System.Buffers.dll
+c:\users\chris\documents\visual studio 2017\Projects\WebApplication1\WebApplication1\bin\Debug\net452\win7-x86\System.Collections.Immutable.dll
+c:\users\chris\documents\visual studio 2017\Projects\WebApplication1\WebApplication1\bin\Debug\net452\win7-x86\System.ComponentModel.Primitives.dll
+c:\users\chris\documents\visual studio 2017\Projects\WebApplication1\WebApplication1\bin\Debug\net452\win7-x86\System.ComponentModel.TypeConverter.dll
+c:\users\chris\documents\visual studio 2017\Projects\WebApplication1\WebApplication1\bin\Debug\net452\win7-x86\System.Diagnostics.DiagnosticSource.dll
+c:\users\chris\documents\visual studio 2017\Projects\WebApplication1\WebApplication1\bin\Debug\net452\win7-x86\System.Numerics.Vectors.dll
+c:\users\chris\documents\visual studio 2017\Projects\WebApplication1\WebApplication1\bin\Debug\net452\win7-x86\System.Reflection.Metadata.dll
+c:\users\chris\documents\visual studio 2017\Projects\WebApplication1\WebApplication1\bin\Debug\net452\win7-x86\System.Runtime.CompilerServices.Unsafe.dll
+c:\users\chris\documents\visual studio 2017\Projects\WebApplication1\WebApplication1\bin\Debug\net452\win7-x86\System.Runtime.InteropServices.RuntimeInformation.dll
+c:\users\chris\documents\visual studio 2017\Projects\WebApplication1\WebApplication1\bin\Debug\net452\win7-x86\System.Text.Encodings.Web.dll
+c:\users\chris\documents\visual studio 2017\Projects\WebApplication1\WebApplication1\bin\Debug\net452\win7-x86\System.Threading.Tasks.Extensions.dll
+c:\users\chris\documents\visual studio 2017\Projects\WebApplication1\WebApplication1\obj\Debug\net452\win7-x86\WebApplication1.csprojResolveAssemblyReference.cache
+c:\users\chris\documents\visual studio 2017\Projects\WebApplication1\WebApplication1\obj\Debug\net452\win7-x86\WebApplication1.csproj.WebApplication1.exe.config
+c:\users\chris\documents\visual studio 2017\Projects\WebApplication1\WebApplication1\obj\Debug\net452\win7-x86\WebApplication1.AssemblyInfo.cs
+c:\users\chris\documents\visual studio 2017\Projects\WebApplication1\WebApplication1\obj\Debug\net452\win7-x86\WebApplication1.exe
+c:\users\chris\documents\visual studio 2017\Projects\WebApplication1\WebApplication1\obj\Debug\net452\win7-x86\WebApplication1.pdb
+C:\Users\Chris\Desktop\Dizertatie\Pagina_web\WebApplication1\WebApplication1\bin\Debug\net452\win7-x86\WebApplication1.exe.config
+C:\Users\Chris\Desktop\Dizertatie\Pagina_web\WebApplication1\WebApplication1\bin\Debug\net452\win7-x86\WebApplication1.deps.json
+C:\Users\Chris\Desktop\Dizertatie\Pagina_web\WebApplication1\WebApplication1\bin\Debug\net452\win7-x86\WebApplication1.runtimeconfig.json
+C:\Users\Chris\Desktop\Dizertatie\Pagina_web\WebApplication1\WebApplication1\bin\Debug\net452\win7-x86\WebApplication1.runtimeconfig.dev.json
+C:\Users\Chris\Desktop\Dizertatie\Pagina_web\WebApplication1\WebApplication1\bin\Debug\net452\win7-x86\WebApplication1.exe
+C:\Users\Chris\Desktop\Dizertatie\Pagina_web\WebApplication1\WebApplication1\bin\Debug\net452\win7-x86\WebApplication1.pdb
+C:\Users\Chris\Desktop\Dizertatie\Pagina_web\WebApplication1\WebApplication1\bin\Debug\net452\win7-x86\libuv.dll
+C:\Users\Chris\Desktop\Dizertatie\Pagina_web\WebApplication1\WebApplication1\bin\Debug\net452\win7-x86\Microsoft.ApplicationInsights.dll
+C:\Users\Chris\Desktop\Dizertatie\Pagina_web\WebApplication1\WebApplication1\bin\Debug\net452\win7-x86\Microsoft.AI.Agent.Intercept.dll
+C:\Users\Chris\Desktop\Dizertatie\Pagina_web\WebApplication1\WebApplication1\bin\Debug\net452\win7-x86\Microsoft.ApplicationInsights.AspNetCore.dll
+C:\Users\Chris\Desktop\Dizertatie\Pagina_web\WebApplication1\WebApplication1\bin\Debug\net452\win7-x86\Microsoft.AI.DependencyCollector.dll
+C:\Users\Chris\Desktop\Dizertatie\Pagina_web\WebApplication1\WebApplication1\bin\Debug\net452\win7-x86\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\Chris\Desktop\Dizertatie\Pagina_web\WebApplication1\WebApplication1\bin\Debug\net452\win7-x86\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\Chris\Desktop\Dizertatie\Pagina_web\WebApplication1\WebApplication1\bin\Debug\net452\win7-x86\Microsoft.AspNetCore.Antiforgery.dll
+C:\Users\Chris\Desktop\Dizertatie\Pagina_web\WebApplication1\WebApplication1\bin\Debug\net452\win7-x86\Microsoft.AspNetCore.Authorization.dll
+C:\Users\Chris\Desktop\Dizertatie\Pagina_web\WebApplication1\WebApplication1\bin\Debug\net452\win7-x86\Microsoft.AspNetCore.Cors.dll
+C:\Users\Chris\Desktop\Dizertatie\Pagina_web\WebApplication1\WebApplication1\bin\Debug\net452\win7-x86\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\Users\Chris\Desktop\Dizertatie\Pagina_web\WebApplication1\WebApplication1\bin\Debug\net452\win7-x86\Microsoft.AspNetCore.DataProtection.dll
+C:\Users\Chris\Desktop\Dizertatie\Pagina_web\WebApplication1\WebApplication1\bin\Debug\net452\win7-x86\Microsoft.AspNetCore.DataProtection.Abstractions.dll
+C:\Users\Chris\Desktop\Dizertatie\Pagina_web\WebApplication1\WebApplication1\bin\Debug\net452\win7-x86\Microsoft.AspNetCore.Diagnostics.dll
+C:\Users\Chris\Desktop\Dizertatie\Pagina_web\WebApplication1\WebApplication1\bin\Debug\net452\win7-x86\Microsoft.AspNetCore.Diagnostics.Abstractions.dll
+C:\Users\Chris\Desktop\Dizertatie\Pagina_web\WebApplication1\WebApplication1\bin\Debug\net452\win7-x86\Microsoft.AspNetCore.Hosting.dll
+C:\Users\Chris\Desktop\Dizertatie\Pagina_web\WebApplication1\WebApplication1\bin\Debug\net452\win7-x86\Microsoft.AspNetCore.Hosting.Abstractions.dll
+C:\Users\Chris\Desktop\Dizertatie\Pagina_web\WebApplication1\WebApplication1\bin\Debug\net452\win7-x86\Microsoft.AspNetCore.Hosting.Server.Abstractions.dll
+C:\Users\Chris\Desktop\Dizertatie\Pagina_web\WebApplication1\WebApplication1\bin\Debug\net452\win7-x86\Microsoft.AspNetCore.Html.Abstractions.dll
+C:\Users\Chris\Desktop\Dizertatie\Pagina_web\WebApplication1\WebApplication1\bin\Debug\net452\win7-x86\Microsoft.AspNetCore.Http.dll
+C:\Users\Chris\Desktop\Dizertatie\Pagina_web\WebApplication1\WebApplication1\bin\Debug\net452\win7-x86\Microsoft.AspNetCore.Http.Abstractions.dll
+C:\Users\Chris\Desktop\Dizertatie\Pagina_web\WebApplication1\WebApplication1\bin\Debug\net452\win7-x86\Microsoft.AspNetCore.Http.Extensions.dll
+C:\Users\Chris\Desktop\Dizertatie\Pagina_web\WebApplication1\WebApplication1\bin\Debug\net452\win7-x86\Microsoft.AspNetCore.Http.Features.dll
+C:\Users\Chris\Desktop\Dizertatie\Pagina_web\WebApplication1\WebApplication1\bin\Debug\net452\win7-x86\Microsoft.AspNetCore.HttpOverrides.dll
+C:\Users\Chris\Desktop\Dizertatie\Pagina_web\WebApplication1\WebApplication1\bin\Debug\net452\win7-x86\Microsoft.AspNetCore.JsonPatch.dll
+C:\Users\Chris\Desktop\Dizertatie\Pagina_web\WebApplication1\WebApplication1\bin\Debug\net452\win7-x86\Microsoft.AspNetCore.Localization.dll
+C:\Users\Chris\Desktop\Dizertatie\Pagina_web\WebApplication1\WebApplication1\bin\Debug\net452\win7-x86\Microsoft.AspNetCore.Mvc.dll
+C:\Users\Chris\Desktop\Dizertatie\Pagina_web\WebApplication1\WebApplication1\bin\Debug\net452\win7-x86\Microsoft.AspNetCore.Mvc.Abstractions.dll
+C:\Users\Chris\Desktop\Dizertatie\Pagina_web\WebApplication1\WebApplication1\bin\Debug\net452\win7-x86\Microsoft.AspNetCore.Mvc.ApiExplorer.dll
+C:\Users\Chris\Desktop\Dizertatie\Pagina_web\WebApplication1\WebApplication1\bin\Debug\net452\win7-x86\Microsoft.AspNetCore.Mvc.Core.dll
+C:\Users\Chris\Desktop\Dizertatie\Pagina_web\WebApplication1\WebApplication1\bin\Debug\net452\win7-x86\Microsoft.AspNetCore.Mvc.Cors.dll
+C:\Users\Chris\Desktop\Dizertatie\Pagina_web\WebApplication1\WebApplication1\bin\Debug\net452\win7-x86\Microsoft.AspNetCore.Mvc.DataAnnotations.dll
+C:\Users\Chris\Desktop\Dizertatie\Pagina_web\WebApplication1\WebApplication1\bin\Debug\net452\win7-x86\Microsoft.AspNetCore.Mvc.Formatters.Json.dll
+C:\Users\Chris\Desktop\Dizertatie\Pagina_web\WebApplication1\WebApplication1\bin\Debug\net452\win7-x86\Microsoft.AspNetCore.Mvc.Localization.dll
+C:\Users\Chris\Desktop\Dizertatie\Pagina_web\WebApplication1\WebApplication1\bin\Debug\net452\win7-x86\Microsoft.AspNetCore.Mvc.Razor.dll
+C:\Users\Chris\Desktop\Dizertatie\Pagina_web\WebApplication1\WebApplication1\bin\Debug\net452\win7-x86\Microsoft.AspNetCore.Mvc.Razor.Host.dll
+C:\Users\Chris\Desktop\Dizertatie\Pagina_web\WebApplication1\WebApplication1\bin\Debug\net452\win7-x86\Microsoft.AspNetCore.Mvc.TagHelpers.dll
+C:\Users\Chris\Desktop\Dizertatie\Pagina_web\WebApplication1\WebApplication1\bin\Debug\net452\win7-x86\Microsoft.AspNetCore.Mvc.ViewFeatures.dll
+C:\Users\Chris\Desktop\Dizertatie\Pagina_web\WebApplication1\WebApplication1\bin\Debug\net452\win7-x86\Microsoft.AspNetCore.Razor.dll
+C:\Users\Chris\Desktop\Dizertatie\Pagina_web\WebApplication1\WebApplication1\bin\Debug\net452\win7-x86\Microsoft.AspNetCore.Razor.Runtime.dll
+C:\Users\Chris\Desktop\Dizertatie\Pagina_web\WebApplication1\WebApplication1\bin\Debug\net452\win7-x86\Microsoft.AspNetCore.ResponseCaching.Abstractions.dll
+C:\Users\Chris\Desktop\Dizertatie\Pagina_web\WebApplication1\WebApplication1\bin\Debug\net452\win7-x86\Microsoft.AspNetCore.Routing.dll
+C:\Users\Chris\Desktop\Dizertatie\Pagina_web\WebApplication1\WebApplication1\bin\Debug\net452\win7-x86\Microsoft.AspNetCore.Routing.Abstractions.dll
+C:\Users\Chris\Desktop\Dizertatie\Pagina_web\WebApplication1\WebApplication1\bin\Debug\net452\win7-x86\Microsoft.AspNetCore.Server.IISIntegration.dll
+C:\Users\Chris\Desktop\Dizertatie\Pagina_web\WebApplication1\WebApplication1\bin\Debug\net452\win7-x86\Microsoft.AspNetCore.Server.Kestrel.dll
+C:\Users\Chris\Desktop\Dizertatie\Pagina_web\WebApplication1\WebApplication1\bin\Debug\net452\win7-x86\Microsoft.AspNetCore.StaticFiles.dll
+C:\Users\Chris\Desktop\Dizertatie\Pagina_web\WebApplication1\WebApplication1\bin\Debug\net452\win7-x86\Microsoft.AspNetCore.WebUtilities.dll
+C:\Users\Chris\Desktop\Dizertatie\Pagina_web\WebApplication1\WebApplication1\bin\Debug\net452\win7-x86\Microsoft.CodeAnalysis.dll
+C:\Users\Chris\Desktop\Dizertatie\Pagina_web\WebApplication1\WebApplication1\bin\Debug\net452\win7-x86\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Chris\Desktop\Dizertatie\Pagina_web\WebApplication1\WebApplication1\bin\Debug\net452\win7-x86\Microsoft.DotNet.PlatformAbstractions.dll
+C:\Users\Chris\Desktop\Dizertatie\Pagina_web\WebApplication1\WebApplication1\bin\Debug\net452\win7-x86\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\Chris\Desktop\Dizertatie\Pagina_web\WebApplication1\WebApplication1\bin\Debug\net452\win7-x86\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Chris\Desktop\Dizertatie\Pagina_web\WebApplication1\WebApplication1\bin\Debug\net452\win7-x86\Microsoft.Extensions.Configuration.dll
+C:\Users\Chris\Desktop\Dizertatie\Pagina_web\WebApplication1\WebApplication1\bin\Debug\net452\win7-x86\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Chris\Desktop\Dizertatie\Pagina_web\WebApplication1\WebApplication1\bin\Debug\net452\win7-x86\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\Chris\Desktop\Dizertatie\Pagina_web\WebApplication1\WebApplication1\bin\Debug\net452\win7-x86\Microsoft.Extensions.Configuration.EnvironmentVariables.dll
+C:\Users\Chris\Desktop\Dizertatie\Pagina_web\WebApplication1\WebApplication1\bin\Debug\net452\win7-x86\Microsoft.Extensions.Configuration.FileExtensions.dll
+C:\Users\Chris\Desktop\Dizertatie\Pagina_web\WebApplication1\WebApplication1\bin\Debug\net452\win7-x86\Microsoft.Extensions.Configuration.Json.dll
+C:\Users\Chris\Desktop\Dizertatie\Pagina_web\WebApplication1\WebApplication1\bin\Debug\net452\win7-x86\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Chris\Desktop\Dizertatie\Pagina_web\WebApplication1\WebApplication1\bin\Debug\net452\win7-x86\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Chris\Desktop\Dizertatie\Pagina_web\WebApplication1\WebApplication1\bin\Debug\net452\win7-x86\Microsoft.Extensions.DependencyModel.dll
+C:\Users\Chris\Desktop\Dizertatie\Pagina_web\WebApplication1\WebApplication1\bin\Debug\net452\win7-x86\Microsoft.Extensions.DiagnosticAdapter.dll
+C:\Users\Chris\Desktop\Dizertatie\Pagina_web\WebApplication1\WebApplication1\bin\Debug\net452\win7-x86\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\Users\Chris\Desktop\Dizertatie\Pagina_web\WebApplication1\WebApplication1\bin\Debug\net452\win7-x86\Microsoft.Extensions.FileProviders.Composite.dll
+C:\Users\Chris\Desktop\Dizertatie\Pagina_web\WebApplication1\WebApplication1\bin\Debug\net452\win7-x86\Microsoft.Extensions.FileProviders.Physical.dll
+C:\Users\Chris\Desktop\Dizertatie\Pagina_web\WebApplication1\WebApplication1\bin\Debug\net452\win7-x86\Microsoft.Extensions.FileSystemGlobbing.dll
+C:\Users\Chris\Desktop\Dizertatie\Pagina_web\WebApplication1\WebApplication1\bin\Debug\net452\win7-x86\Microsoft.Extensions.Globalization.CultureInfoCache.dll
+C:\Users\Chris\Desktop\Dizertatie\Pagina_web\WebApplication1\WebApplication1\bin\Debug\net452\win7-x86\Microsoft.Extensions.Localization.dll
+C:\Users\Chris\Desktop\Dizertatie\Pagina_web\WebApplication1\WebApplication1\bin\Debug\net452\win7-x86\Microsoft.Extensions.Localization.Abstractions.dll
+C:\Users\Chris\Desktop\Dizertatie\Pagina_web\WebApplication1\WebApplication1\bin\Debug\net452\win7-x86\Microsoft.Extensions.Logging.dll
+C:\Users\Chris\Desktop\Dizertatie\Pagina_web\WebApplication1\WebApplication1\bin\Debug\net452\win7-x86\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Chris\Desktop\Dizertatie\Pagina_web\WebApplication1\WebApplication1\bin\Debug\net452\win7-x86\Microsoft.Extensions.Logging.Console.dll
+C:\Users\Chris\Desktop\Dizertatie\Pagina_web\WebApplication1\WebApplication1\bin\Debug\net452\win7-x86\Microsoft.Extensions.Logging.Debug.dll
+C:\Users\Chris\Desktop\Dizertatie\Pagina_web\WebApplication1\WebApplication1\bin\Debug\net452\win7-x86\Microsoft.Extensions.ObjectPool.dll
+C:\Users\Chris\Desktop\Dizertatie\Pagina_web\WebApplication1\WebApplication1\bin\Debug\net452\win7-x86\Microsoft.Extensions.Options.dll
+C:\Users\Chris\Desktop\Dizertatie\Pagina_web\WebApplication1\WebApplication1\bin\Debug\net452\win7-x86\Microsoft.Extensions.Options.ConfigurationExtensions.dll
+C:\Users\Chris\Desktop\Dizertatie\Pagina_web\WebApplication1\WebApplication1\bin\Debug\net452\win7-x86\Microsoft.Extensions.PlatformAbstractions.dll
+C:\Users\Chris\Desktop\Dizertatie\Pagina_web\WebApplication1\WebApplication1\bin\Debug\net452\win7-x86\Microsoft.Extensions.Primitives.dll
+C:\Users\Chris\Desktop\Dizertatie\Pagina_web\WebApplication1\WebApplication1\bin\Debug\net452\win7-x86\Microsoft.Extensions.WebEncoders.dll
+C:\Users\Chris\Desktop\Dizertatie\Pagina_web\WebApplication1\WebApplication1\bin\Debug\net452\win7-x86\Microsoft.Net.Http.Headers.dll
+C:\Users\Chris\Desktop\Dizertatie\Pagina_web\WebApplication1\WebApplication1\bin\Debug\net452\win7-x86\Microsoft.VisualStudio.Web.BrowserLink.dll
+C:\Users\Chris\Desktop\Dizertatie\Pagina_web\WebApplication1\WebApplication1\bin\Debug\net452\win7-x86\Newtonsoft.Json.dll
+C:\Users\Chris\Desktop\Dizertatie\Pagina_web\WebApplication1\WebApplication1\bin\Debug\net452\win7-x86\System.Buffers.dll
+C:\Users\Chris\Desktop\Dizertatie\Pagina_web\WebApplication1\WebApplication1\bin\Debug\net452\win7-x86\System.Collections.Immutable.dll
+C:\Users\Chris\Desktop\Dizertatie\Pagina_web\WebApplication1\WebApplication1\bin\Debug\net452\win7-x86\System.ComponentModel.Primitives.dll
+C:\Users\Chris\Desktop\Dizertatie\Pagina_web\WebApplication1\WebApplication1\bin\Debug\net452\win7-x86\System.ComponentModel.TypeConverter.dll
+C:\Users\Chris\Desktop\Dizertatie\Pagina_web\WebApplication1\WebApplication1\bin\Debug\net452\win7-x86\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Chris\Desktop\Dizertatie\Pagina_web\WebApplication1\WebApplication1\bin\Debug\net452\win7-x86\System.Numerics.Vectors.dll
+C:\Users\Chris\Desktop\Dizertatie\Pagina_web\WebApplication1\WebApplication1\bin\Debug\net452\win7-x86\System.Reflection.Metadata.dll
+C:\Users\Chris\Desktop\Dizertatie\Pagina_web\WebApplication1\WebApplication1\bin\Debug\net452\win7-x86\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Chris\Desktop\Dizertatie\Pagina_web\WebApplication1\WebApplication1\bin\Debug\net452\win7-x86\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\Chris\Desktop\Dizertatie\Pagina_web\WebApplication1\WebApplication1\bin\Debug\net452\win7-x86\System.Text.Encodings.Web.dll
+C:\Users\Chris\Desktop\Dizertatie\Pagina_web\WebApplication1\WebApplication1\bin\Debug\net452\win7-x86\System.Threading.Tasks.Extensions.dll
+C:\Users\Chris\Desktop\Dizertatie\Pagina_web\WebApplication1\WebApplication1\obj\Debug\net452\win7-x86\WebApplication1.csprojResolveAssemblyReference.cache
+C:\Users\Chris\Desktop\Dizertatie\Pagina_web\WebApplication1\WebApplication1\obj\Debug\net452\win7-x86\WebApplication1.csproj.WebApplication1.exe.config
+C:\Users\Chris\Desktop\Dizertatie\Pagina_web\WebApplication1\WebApplication1\obj\Debug\net452\win7-x86\WebApplication1.AssemblyInfo.cs
+C:\Users\Chris\Desktop\Dizertatie\Pagina_web\WebApplication1\WebApplication1\obj\Debug\net452\win7-x86\WebApplication1.exe
+C:\Users\Chris\Desktop\Dizertatie\Pagina_web\WebApplication1\WebApplication1\obj\Debug\net452\win7-x86\WebApplication1.pdb
+C:\Users\cristi\Desktop\Dizertatie\Pagina_web\WebApplication1\WebApplication1\bin\Debug\net452\win7-x86\WebApplication1.exe.config
+C:\Users\cristi\Desktop\Dizertatie\Pagina_web\WebApplication1\WebApplication1\bin\Debug\net452\win7-x86\WebApplication1.deps.json
+C:\Users\cristi\Desktop\Dizertatie\Pagina_web\WebApplication1\WebApplication1\bin\Debug\net452\win7-x86\WebApplication1.runtimeconfig.json
+C:\Users\cristi\Desktop\Dizertatie\Pagina_web\WebApplication1\WebApplication1\bin\Debug\net452\win7-x86\WebApplication1.runtimeconfig.dev.json
+C:\Users\cristi\Desktop\Dizertatie\Pagina_web\WebApplication1\WebApplication1\bin\Debug\net452\win7-x86\WebApplication1.exe
+C:\Users\cristi\Desktop\Dizertatie\Pagina_web\WebApplication1\WebApplication1\bin\Debug\net452\win7-x86\WebApplication1.pdb
+C:\Users\cristi\Desktop\Dizertatie\Pagina_web\WebApplication1\WebApplication1\bin\Debug\net452\win7-x86\libuv.dll
+C:\Users\cristi\Desktop\Dizertatie\Pagina_web\WebApplication1\WebApplication1\bin\Debug\net452\win7-x86\Microsoft.ApplicationInsights.dll
+C:\Users\cristi\Desktop\Dizertatie\Pagina_web\WebApplication1\WebApplication1\bin\Debug\net452\win7-x86\Microsoft.AI.Agent.Intercept.dll
+C:\Users\cristi\Desktop\Dizertatie\Pagina_web\WebApplication1\WebApplication1\bin\Debug\net452\win7-x86\Microsoft.ApplicationInsights.AspNetCore.dll
+C:\Users\cristi\Desktop\Dizertatie\Pagina_web\WebApplication1\WebApplication1\bin\Debug\net452\win7-x86\Microsoft.AI.DependencyCollector.dll
+C:\Users\cristi\Desktop\Dizertatie\Pagina_web\WebApplication1\WebApplication1\bin\Debug\net452\win7-x86\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\cristi\Desktop\Dizertatie\Pagina_web\WebApplication1\WebApplication1\bin\Debug\net452\win7-x86\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\cristi\Desktop\Dizertatie\Pagina_web\WebApplication1\WebApplication1\bin\Debug\net452\win7-x86\Microsoft.AspNetCore.Antiforgery.dll
+C:\Users\cristi\Desktop\Dizertatie\Pagina_web\WebApplication1\WebApplication1\bin\Debug\net452\win7-x86\Microsoft.AspNetCore.Authorization.dll
+C:\Users\cristi\Desktop\Dizertatie\Pagina_web\WebApplication1\WebApplication1\bin\Debug\net452\win7-x86\Microsoft.AspNetCore.Cors.dll
+C:\Users\cristi\Desktop\Dizertatie\Pagina_web\WebApplication1\WebApplication1\bin\Debug\net452\win7-x86\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\Users\cristi\Desktop\Dizertatie\Pagina_web\WebApplication1\WebApplication1\bin\Debug\net452\win7-x86\Microsoft.AspNetCore.DataProtection.dll
+C:\Users\cristi\Desktop\Dizertatie\Pagina_web\WebApplication1\WebApplication1\bin\Debug\net452\win7-x86\Microsoft.AspNetCore.DataProtection.Abstractions.dll
+C:\Users\cristi\Desktop\Dizertatie\Pagina_web\WebApplication1\WebApplication1\bin\Debug\net452\win7-x86\Microsoft.AspNetCore.Diagnostics.dll
+C:\Users\cristi\Desktop\Dizertatie\Pagina_web\WebApplication1\WebApplication1\bin\Debug\net452\win7-x86\Microsoft.AspNetCore.Diagnostics.Abstractions.dll
+C:\Users\cristi\Desktop\Dizertatie\Pagina_web\WebApplication1\WebApplication1\bin\Debug\net452\win7-x86\Microsoft.AspNetCore.Hosting.dll
+C:\Users\cristi\Desktop\Dizertatie\Pagina_web\WebApplication1\WebApplication1\bin\Debug\net452\win7-x86\Microsoft.AspNetCore.Hosting.Abstractions.dll
+C:\Users\cristi\Desktop\Dizertatie\Pagina_web\WebApplication1\WebApplication1\bin\Debug\net452\win7-x86\Microsoft.AspNetCore.Hosting.Server.Abstractions.dll
+C:\Users\cristi\Desktop\Dizertatie\Pagina_web\WebApplication1\WebApplication1\bin\Debug\net452\win7-x86\Microsoft.AspNetCore.Html.Abstractions.dll
+C:\Users\cristi\Desktop\Dizertatie\Pagina_web\WebApplication1\WebApplication1\bin\Debug\net452\win7-x86\Microsoft.AspNetCore.Http.dll
+C:\Users\cristi\Desktop\Dizertatie\Pagina_web\WebApplication1\WebApplication1\bin\Debug\net452\win7-x86\Microsoft.AspNetCore.Http.Abstractions.dll
+C:\Users\cristi\Desktop\Dizertatie\Pagina_web\WebApplication1\WebApplication1\bin\Debug\net452\win7-x86\Microsoft.AspNetCore.Http.Extensions.dll
+C:\Users\cristi\Desktop\Dizertatie\Pagina_web\WebApplication1\WebApplication1\bin\Debug\net452\win7-x86\Microsoft.AspNetCore.Http.Features.dll
+C:\Users\cristi\Desktop\Dizertatie\Pagina_web\WebApplication1\WebApplication1\bin\Debug\net452\win7-x86\Microsoft.AspNetCore.HttpOverrides.dll
+C:\Users\cristi\Desktop\Dizertatie\Pagina_web\WebApplication1\WebApplication1\bin\Debug\net452\win7-x86\Microsoft.AspNetCore.JsonPatch.dll
+C:\Users\cristi\Desktop\Dizertatie\Pagina_web\WebApplication1\WebApplication1\bin\Debug\net452\win7-x86\Microsoft.AspNetCore.Localization.dll
+C:\Users\cristi\Desktop\Dizertatie\Pagina_web\WebApplication1\WebApplication1\bin\Debug\net452\win7-x86\Microsoft.AspNetCore.Mvc.dll
+C:\Users\cristi\Desktop\Dizertatie\Pagina_web\WebApplication1\WebApplication1\bin\Debug\net452\win7-x86\Microsoft.AspNetCore.Mvc.Abstractions.dll
+C:\Users\cristi\Desktop\Dizertatie\Pagina_web\WebApplication1\WebApplication1\bin\Debug\net452\win7-x86\Microsoft.AspNetCore.Mvc.ApiExplorer.dll
+C:\Users\cristi\Desktop\Dizertatie\Pagina_web\WebApplication1\WebApplication1\bin\Debug\net452\win7-x86\Microsoft.AspNetCore.Mvc.Core.dll
+C:\Users\cristi\Desktop\Dizertatie\Pagina_web\WebApplication1\WebApplication1\bin\Debug\net452\win7-x86\Microsoft.AspNetCore.Mvc.Cors.dll
+C:\Users\cristi\Desktop\Dizertatie\Pagina_web\WebApplication1\WebApplication1\bin\Debug\net452\win7-x86\Microsoft.AspNetCore.Mvc.DataAnnotations.dll
+C:\Users\cristi\Desktop\Dizertatie\Pagina_web\WebApplication1\WebApplication1\bin\Debug\net452\win7-x86\Microsoft.AspNetCore.Mvc.Formatters.Json.dll
+C:\Users\cristi\Desktop\Dizertatie\Pagina_web\WebApplication1\WebApplication1\bin\Debug\net452\win7-x86\Microsoft.AspNetCore.Mvc.Localization.dll
+C:\Users\cristi\Desktop\Dizertatie\Pagina_web\WebApplication1\WebApplication1\bin\Debug\net452\win7-x86\Microsoft.AspNetCore.Mvc.Razor.dll
+C:\Users\cristi\Desktop\Dizertatie\Pagina_web\WebApplication1\WebApplication1\bin\Debug\net452\win7-x86\Microsoft.AspNetCore.Mvc.Razor.Host.dll
+C:\Users\cristi\Desktop\Dizertatie\Pagina_web\WebApplication1\WebApplication1\bin\Debug\net452\win7-x86\Microsoft.AspNetCore.Mvc.TagHelpers.dll
+C:\Users\cristi\Desktop\Dizertatie\Pagina_web\WebApplication1\WebApplication1\bin\Debug\net452\win7-x86\Microsoft.AspNetCore.Mvc.ViewFeatures.dll
+C:\Users\cristi\Desktop\Dizertatie\Pagina_web\WebApplication1\WebApplication1\bin\Debug\net452\win7-x86\Microsoft.AspNetCore.Razor.dll
+C:\Users\cristi\Desktop\Dizertatie\Pagina_web\WebApplication1\WebApplication1\bin\Debug\net452\win7-x86\Microsoft.AspNetCore.Razor.Runtime.dll
+C:\Users\cristi\Desktop\Dizertatie\Pagina_web\WebApplication1\WebApplication1\bin\Debug\net452\win7-x86\Microsoft.AspNetCore.ResponseCaching.Abstractions.dll
+C:\Users\cristi\Desktop\Dizertatie\Pagina_web\WebApplication1\WebApplication1\bin\Debug\net452\win7-x86\Microsoft.AspNetCore.Routing.dll
+C:\Users\cristi\Desktop\Dizertatie\Pagina_web\WebApplication1\WebApplication1\bin\Debug\net452\win7-x86\Microsoft.AspNetCore.Routing.Abstractions.dll
+C:\Users\cristi\Desktop\Dizertatie\Pagina_web\WebApplication1\WebApplication1\bin\Debug\net452\win7-x86\Microsoft.AspNetCore.Server.IISIntegration.dll
+C:\Users\cristi\Desktop\Dizertatie\Pagina_web\WebApplication1\WebApplication1\bin\Debug\net452\win7-x86\Microsoft.AspNetCore.Server.Kestrel.dll
+C:\Users\cristi\Desktop\Dizertatie\Pagina_web\WebApplication1\WebApplication1\bin\Debug\net452\win7-x86\Microsoft.AspNetCore.StaticFiles.dll
+C:\Users\cristi\Desktop\Dizertatie\Pagina_web\WebApplication1\WebApplication1\bin\Debug\net452\win7-x86\Microsoft.AspNetCore.WebUtilities.dll
+C:\Users\cristi\Desktop\Dizertatie\Pagina_web\WebApplication1\WebApplication1\bin\Debug\net452\win7-x86\Microsoft.CodeAnalysis.dll
+C:\Users\cristi\Desktop\Dizertatie\Pagina_web\WebApplication1\WebApplication1\bin\Debug\net452\win7-x86\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\cristi\Desktop\Dizertatie\Pagina_web\WebApplication1\WebApplication1\bin\Debug\net452\win7-x86\Microsoft.DotNet.PlatformAbstractions.dll
+C:\Users\cristi\Desktop\Dizertatie\Pagina_web\WebApplication1\WebApplication1\bin\Debug\net452\win7-x86\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\cristi\Desktop\Dizertatie\Pagina_web\WebApplication1\WebApplication1\bin\Debug\net452\win7-x86\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\cristi\Desktop\Dizertatie\Pagina_web\WebApplication1\WebApplication1\bin\Debug\net452\win7-x86\Microsoft.Extensions.Configuration.dll
+C:\Users\cristi\Desktop\Dizertatie\Pagina_web\WebApplication1\WebApplication1\bin\Debug\net452\win7-x86\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\cristi\Desktop\Dizertatie\Pagina_web\WebApplication1\WebApplication1\bin\Debug\net452\win7-x86\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\cristi\Desktop\Dizertatie\Pagina_web\WebApplication1\WebApplication1\bin\Debug\net452\win7-x86\Microsoft.Extensions.Configuration.EnvironmentVariables.dll
+C:\Users\cristi\Desktop\Dizertatie\Pagina_web\WebApplication1\WebApplication1\bin\Debug\net452\win7-x86\Microsoft.Extensions.Configuration.FileExtensions.dll
+C:\Users\cristi\Desktop\Dizertatie\Pagina_web\WebApplication1\WebApplication1\bin\Debug\net452\win7-x86\Microsoft.Extensions.Configuration.Json.dll
+C:\Users\cristi\Desktop\Dizertatie\Pagina_web\WebApplication1\WebApplication1\bin\Debug\net452\win7-x86\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\cristi\Desktop\Dizertatie\Pagina_web\WebApplication1\WebApplication1\bin\Debug\net452\win7-x86\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\cristi\Desktop\Dizertatie\Pagina_web\WebApplication1\WebApplication1\bin\Debug\net452\win7-x86\Microsoft.Extensions.DependencyModel.dll
+C:\Users\cristi\Desktop\Dizertatie\Pagina_web\WebApplication1\WebApplication1\bin\Debug\net452\win7-x86\Microsoft.Extensions.DiagnosticAdapter.dll
+C:\Users\cristi\Desktop\Dizertatie\Pagina_web\WebApplication1\WebApplication1\bin\Debug\net452\win7-x86\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\Users\cristi\Desktop\Dizertatie\Pagina_web\WebApplication1\WebApplication1\bin\Debug\net452\win7-x86\Microsoft.Extensions.FileProviders.Composite.dll
+C:\Users\cristi\Desktop\Dizertatie\Pagina_web\WebApplication1\WebApplication1\bin\Debug\net452\win7-x86\Microsoft.Extensions.FileProviders.Physical.dll
+C:\Users\cristi\Desktop\Dizertatie\Pagina_web\WebApplication1\WebApplication1\bin\Debug\net452\win7-x86\Microsoft.Extensions.FileSystemGlobbing.dll
+C:\Users\cristi\Desktop\Dizertatie\Pagina_web\WebApplication1\WebApplication1\bin\Debug\net452\win7-x86\Microsoft.Extensions.Globalization.CultureInfoCache.dll
+C:\Users\cristi\Desktop\Dizertatie\Pagina_web\WebApplication1\WebApplication1\bin\Debug\net452\win7-x86\Microsoft.Extensions.Localization.dll
+C:\Users\cristi\Desktop\Dizertatie\Pagina_web\WebApplication1\WebApplication1\bin\Debug\net452\win7-x86\Microsoft.Extensions.Localization.Abstractions.dll
+C:\Users\cristi\Desktop\Dizertatie\Pagina_web\WebApplication1\WebApplication1\bin\Debug\net452\win7-x86\Microsoft.Extensions.Logging.dll
+C:\Users\cristi\Desktop\Dizertatie\Pagina_web\WebApplication1\WebApplication1\bin\Debug\net452\win7-x86\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\cristi\Desktop\Dizertatie\Pagina_web\WebApplication1\WebApplication1\bin\Debug\net452\win7-x86\Microsoft.Extensions.Logging.Console.dll
+C:\Users\cristi\Desktop\Dizertatie\Pagina_web\WebApplication1\WebApplication1\bin\Debug\net452\win7-x86\Microsoft.Extensions.Logging.Debug.dll
+C:\Users\cristi\Desktop\Dizertatie\Pagina_web\WebApplication1\WebApplication1\bin\Debug\net452\win7-x86\Microsoft.Extensions.ObjectPool.dll
+C:\Users\cristi\Desktop\Dizertatie\Pagina_web\WebApplication1\WebApplication1\bin\Debug\net452\win7-x86\Microsoft.Extensions.Options.dll
+C:\Users\cristi\Desktop\Dizertatie\Pagina_web\WebApplication1\WebApplication1\bin\Debug\net452\win7-x86\Microsoft.Extensions.Options.ConfigurationExtensions.dll
+C:\Users\cristi\Desktop\Dizertatie\Pagina_web\WebApplication1\WebApplication1\bin\Debug\net452\win7-x86\Microsoft.Extensions.PlatformAbstractions.dll
+C:\Users\cristi\Desktop\Dizertatie\Pagina_web\WebApplication1\WebApplication1\bin\Debug\net452\win7-x86\Microsoft.Extensions.Primitives.dll
+C:\Users\cristi\Desktop\Dizertatie\Pagina_web\WebApplication1\WebApplication1\bin\Debug\net452\win7-x86\Microsoft.Extensions.WebEncoders.dll
+C:\Users\cristi\Desktop\Dizertatie\Pagina_web\WebApplication1\WebApplication1\bin\Debug\net452\win7-x86\Microsoft.Net.Http.Headers.dll
+C:\Users\cristi\Desktop\Dizertatie\Pagina_web\WebApplication1\WebApplication1\bin\Debug\net452\win7-x86\Microsoft.VisualStudio.Web.BrowserLink.dll
+C:\Users\cristi\Desktop\Dizertatie\Pagina_web\WebApplication1\WebApplication1\bin\Debug\net452\win7-x86\Newtonsoft.Json.dll
+C:\Users\cristi\Desktop\Dizertatie\Pagina_web\WebApplication1\WebApplication1\bin\Debug\net452\win7-x86\System.Buffers.dll
+C:\Users\cristi\Desktop\Dizertatie\Pagina_web\WebApplication1\WebApplication1\bin\Debug\net452\win7-x86\System.Collections.Immutable.dll
+C:\Users\cristi\Desktop\Dizertatie\Pagina_web\WebApplication1\WebApplication1\bin\Debug\net452\win7-x86\System.ComponentModel.Primitives.dll
+C:\Users\cristi\Desktop\Dizertatie\Pagina_web\WebApplication1\WebApplication1\bin\Debug\net452\win7-x86\System.ComponentModel.TypeConverter.dll
+C:\Users\cristi\Desktop\Dizertatie\Pagina_web\WebApplication1\WebApplication1\bin\Debug\net452\win7-x86\System.Diagnostics.DiagnosticSource.dll
+C:\Users\cristi\Desktop\Dizertatie\Pagina_web\WebApplication1\WebApplication1\bin\Debug\net452\win7-x86\System.Numerics.Vectors.dll
+C:\Users\cristi\Desktop\Dizertatie\Pagina_web\WebApplication1\WebApplication1\bin\Debug\net452\win7-x86\System.Reflection.Metadata.dll
+C:\Users\cristi\Desktop\Dizertatie\Pagina_web\WebApplication1\WebApplication1\bin\Debug\net452\win7-x86\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\cristi\Desktop\Dizertatie\Pagina_web\WebApplication1\WebApplication1\bin\Debug\net452\win7-x86\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\cristi\Desktop\Dizertatie\Pagina_web\WebApplication1\WebApplication1\bin\Debug\net452\win7-x86\System.Text.Encodings.Web.dll
+C:\Users\cristi\Desktop\Dizertatie\Pagina_web\WebApplication1\WebApplication1\bin\Debug\net452\win7-x86\System.Threading.Tasks.Extensions.dll
+C:\Users\cristi\Desktop\Dizertatie\Pagina_web\WebApplication1\WebApplication1\obj\Debug\net452\win7-x86\WebApplication1.csprojResolveAssemblyReference.cache
+C:\Users\cristi\Desktop\Dizertatie\Pagina_web\WebApplication1\WebApplication1\obj\Debug\net452\win7-x86\WebApplication1.csproj.WebApplication1.exe.config
+C:\Users\cristi\Desktop\Dizertatie\Pagina_web\WebApplication1\WebApplication1\obj\Debug\net452\win7-x86\WebApplication1.AssemblyInfo.cs
+C:\Users\cristi\Desktop\Dizertatie\Pagina_web\WebApplication1\WebApplication1\obj\Debug\net452\win7-x86\WebApplication1.exe
+C:\Users\cristi\Desktop\Dizertatie\Pagina_web\WebApplication1\WebApplication1\obj\Debug\net452\win7-x86\WebApplication1.pdb
+G:\PC\Stuff\Others\Stuff\Dizertatie\Pagina_web\WebApplication1\WebApplication1\bin\Debug\net452\win7-x86\WebApplication1.exe.config
+G:\PC\Stuff\Others\Stuff\Dizertatie\Pagina_web\WebApplication1\WebApplication1\bin\Debug\net452\win7-x86\WebApplication1.deps.json
+G:\PC\Stuff\Others\Stuff\Dizertatie\Pagina_web\WebApplication1\WebApplication1\bin\Debug\net452\win7-x86\WebApplication1.exe
+G:\PC\Stuff\Others\Stuff\Dizertatie\Pagina_web\WebApplication1\WebApplication1\bin\Debug\net452\win7-x86\WebApplication1.pdb
+G:\PC\Stuff\Others\Stuff\Dizertatie\Pagina_web\WebApplication1\WebApplication1\bin\Debug\net452\win7-x86\libuv.dll
+G:\PC\Stuff\Others\Stuff\Dizertatie\Pagina_web\WebApplication1\WebApplication1\bin\Debug\net452\win7-x86\Microsoft.ApplicationInsights.dll
+G:\PC\Stuff\Others\Stuff\Dizertatie\Pagina_web\WebApplication1\WebApplication1\bin\Debug\net452\win7-x86\Microsoft.AI.Agent.Intercept.dll
+G:\PC\Stuff\Others\Stuff\Dizertatie\Pagina_web\WebApplication1\WebApplication1\bin\Debug\net452\win7-x86\Microsoft.ApplicationInsights.AspNetCore.dll
+G:\PC\Stuff\Others\Stuff\Dizertatie\Pagina_web\WebApplication1\WebApplication1\bin\Debug\net452\win7-x86\Microsoft.AI.DependencyCollector.dll
+G:\PC\Stuff\Others\Stuff\Dizertatie\Pagina_web\WebApplication1\WebApplication1\bin\Debug\net452\win7-x86\Microsoft.AI.PerfCounterCollector.dll
+G:\PC\Stuff\Others\Stuff\Dizertatie\Pagina_web\WebApplication1\WebApplication1\bin\Debug\net452\win7-x86\Microsoft.AI.ServerTelemetryChannel.dll
+G:\PC\Stuff\Others\Stuff\Dizertatie\Pagina_web\WebApplication1\WebApplication1\bin\Debug\net452\win7-x86\Microsoft.AspNetCore.Antiforgery.dll
+G:\PC\Stuff\Others\Stuff\Dizertatie\Pagina_web\WebApplication1\WebApplication1\bin\Debug\net452\win7-x86\Microsoft.AspNetCore.Authorization.dll
+G:\PC\Stuff\Others\Stuff\Dizertatie\Pagina_web\WebApplication1\WebApplication1\bin\Debug\net452\win7-x86\Microsoft.AspNetCore.Cors.dll
+G:\PC\Stuff\Others\Stuff\Dizertatie\Pagina_web\WebApplication1\WebApplication1\bin\Debug\net452\win7-x86\Microsoft.AspNetCore.Cryptography.Internal.dll
+G:\PC\Stuff\Others\Stuff\Dizertatie\Pagina_web\WebApplication1\WebApplication1\bin\Debug\net452\win7-x86\Microsoft.AspNetCore.DataProtection.dll
+G:\PC\Stuff\Others\Stuff\Dizertatie\Pagina_web\WebApplication1\WebApplication1\bin\Debug\net452\win7-x86\Microsoft.AspNetCore.DataProtection.Abstractions.dll
+G:\PC\Stuff\Others\Stuff\Dizertatie\Pagina_web\WebApplication1\WebApplication1\bin\Debug\net452\win7-x86\Microsoft.AspNetCore.Diagnostics.dll
+G:\PC\Stuff\Others\Stuff\Dizertatie\Pagina_web\WebApplication1\WebApplication1\bin\Debug\net452\win7-x86\Microsoft.AspNetCore.Diagnostics.Abstractions.dll
+G:\PC\Stuff\Others\Stuff\Dizertatie\Pagina_web\WebApplication1\WebApplication1\bin\Debug\net452\win7-x86\Microsoft.AspNetCore.Hosting.dll
+G:\PC\Stuff\Others\Stuff\Dizertatie\Pagina_web\WebApplication1\WebApplication1\bin\Debug\net452\win7-x86\Microsoft.AspNetCore.Hosting.Abstractions.dll
+G:\PC\Stuff\Others\Stuff\Dizertatie\Pagina_web\WebApplication1\WebApplication1\bin\Debug\net452\win7-x86\Microsoft.AspNetCore.Hosting.Server.Abstractions.dll
+G:\PC\Stuff\Others\Stuff\Dizertatie\Pagina_web\WebApplication1\WebApplication1\bin\Debug\net452\win7-x86\Microsoft.AspNetCore.Html.Abstractions.dll
+G:\PC\Stuff\Others\Stuff\Dizertatie\Pagina_web\WebApplication1\WebApplication1\bin\Debug\net452\win7-x86\Microsoft.AspNetCore.Http.dll
+G:\PC\Stuff\Others\Stuff\Dizertatie\Pagina_web\WebApplication1\WebApplication1\bin\Debug\net452\win7-x86\Microsoft.AspNetCore.Http.Abstractions.dll
+G:\PC\Stuff\Others\Stuff\Dizertatie\Pagina_web\WebApplication1\WebApplication1\bin\Debug\net452\win7-x86\Microsoft.AspNetCore.Http.Extensions.dll
+G:\PC\Stuff\Others\Stuff\Dizertatie\Pagina_web\WebApplication1\WebApplication1\bin\Debug\net452\win7-x86\Microsoft.AspNetCore.Http.Features.dll
+G:\PC\Stuff\Others\Stuff\Dizertatie\Pagina_web\WebApplication1\WebApplication1\bin\Debug\net452\win7-x86\Microsoft.AspNetCore.HttpOverrides.dll
+G:\PC\Stuff\Others\Stuff\Dizertatie\Pagina_web\WebApplication1\WebApplication1\bin\Debug\net452\win7-x86\Microsoft.AspNetCore.JsonPatch.dll
+G:\PC\Stuff\Others\Stuff\Dizertatie\Pagina_web\WebApplication1\WebApplication1\bin\Debug\net452\win7-x86\Microsoft.AspNetCore.Localization.dll
+G:\PC\Stuff\Others\Stuff\Dizertatie\Pagina_web\WebApplication1\WebApplication1\bin\Debug\net452\win7-x86\Microsoft.AspNetCore.Mvc.dll
+G:\PC\Stuff\Others\Stuff\Dizertatie\Pagina_web\WebApplication1\WebApplication1\bin\Debug\net452\win7-x86\Microsoft.AspNetCore.Mvc.Abstractions.dll
+G:\PC\Stuff\Others\Stuff\Dizertatie\Pagina_web\WebApplication1\WebApplication1\bin\Debug\net452\win7-x86\Microsoft.AspNetCore.Mvc.ApiExplorer.dll
+G:\PC\Stuff\Others\Stuff\Dizertatie\Pagina_web\WebApplication1\WebApplication1\bin\Debug\net452\win7-x86\Microsoft.AspNetCore.Mvc.Core.dll
+G:\PC\Stuff\Others\Stuff\Dizertatie\Pagina_web\WebApplication1\WebApplication1\bin\Debug\net452\win7-x86\Microsoft.AspNetCore.Mvc.Cors.dll
+G:\PC\Stuff\Others\Stuff\Dizertatie\Pagina_web\WebApplication1\WebApplication1\bin\Debug\net452\win7-x86\Microsoft.AspNetCore.Mvc.DataAnnotations.dll
+G:\PC\Stuff\Others\Stuff\Dizertatie\Pagina_web\WebApplication1\WebApplication1\bin\Debug\net452\win7-x86\Microsoft.AspNetCore.Mvc.Formatters.Json.dll
+G:\PC\Stuff\Others\Stuff\Dizertatie\Pagina_web\WebApplication1\WebApplication1\bin\Debug\net452\win7-x86\Microsoft.AspNetCore.Mvc.Localization.dll
+G:\PC\Stuff\Others\Stuff\Dizertatie\Pagina_web\WebApplication1\WebApplication1\bin\Debug\net452\win7-x86\Microsoft.AspNetCore.Mvc.Razor.dll
+G:\PC\Stuff\Others\Stuff\Dizertatie\Pagina_web\WebApplication1\WebApplication1\bin\Debug\net452\win7-x86\Microsoft.AspNetCore.Mvc.Razor.Host.dll
+G:\PC\Stuff\Others\Stuff\Dizertatie\Pagina_web\WebApplication1\WebApplication1\bin\Debug\net452\win7-x86\Microsoft.AspNetCore.Mvc.TagHelpers.dll
+G:\PC\Stuff\Others\Stuff\Dizertatie\Pagina_web\WebApplication1\WebApplication1\bin\Debug\net452\win7-x86\Microsoft.AspNetCore.Mvc.ViewFeatures.dll
+G:\PC\Stuff\Others\Stuff\Dizertatie\Pagina_web\WebApplication1\WebApplication1\bin\Debug\net452\win7-x86\Microsoft.AspNetCore.Razor.dll
+G:\PC\Stuff\Others\Stuff\Dizertatie\Pagina_web\WebApplication1\WebApplication1\bin\Debug\net452\win7-x86\Microsoft.AspNetCore.Razor.Runtime.dll
+G:\PC\Stuff\Others\Stuff\Dizertatie\Pagina_web\WebApplication1\WebApplication1\bin\Debug\net452\win7-x86\Microsoft.AspNetCore.ResponseCaching.Abstractions.dll
+G:\PC\Stuff\Others\Stuff\Dizertatie\Pagina_web\WebApplication1\WebApplication1\bin\Debug\net452\win7-x86\Microsoft.AspNetCore.Routing.dll
+G:\PC\Stuff\Others\Stuff\Dizertatie\Pagina_web\WebApplication1\WebApplication1\bin\Debug\net452\win7-x86\Microsoft.AspNetCore.Routing.Abstractions.dll
+G:\PC\Stuff\Others\Stuff\Dizertatie\Pagina_web\WebApplication1\WebApplication1\bin\Debug\net452\win7-x86\Microsoft.AspNetCore.Server.IISIntegration.dll
+G:\PC\Stuff\Others\Stuff\Dizertatie\Pagina_web\WebApplication1\WebApplication1\bin\Debug\net452\win7-x86\Microsoft.AspNetCore.Server.Kestrel.dll
+G:\PC\Stuff\Others\Stuff\Dizertatie\Pagina_web\WebApplication1\WebApplication1\bin\Debug\net452\win7-x86\Microsoft.AspNetCore.StaticFiles.dll
+G:\PC\Stuff\Others\Stuff\Dizertatie\Pagina_web\WebApplication1\WebApplication1\bin\Debug\net452\win7-x86\Microsoft.AspNetCore.WebUtilities.dll
+G:\PC\Stuff\Others\Stuff\Dizertatie\Pagina_web\WebApplication1\WebApplication1\bin\Debug\net452\win7-x86\Microsoft.CodeAnalysis.dll
+G:\PC\Stuff\Others\Stuff\Dizertatie\Pagina_web\WebApplication1\WebApplication1\bin\Debug\net452\win7-x86\Microsoft.CodeAnalysis.CSharp.dll
+G:\PC\Stuff\Others\Stuff\Dizertatie\Pagina_web\WebApplication1\WebApplication1\bin\Debug\net452\win7-x86\Microsoft.DotNet.PlatformAbstractions.dll
+G:\PC\Stuff\Others\Stuff\Dizertatie\Pagina_web\WebApplication1\WebApplication1\bin\Debug\net452\win7-x86\Microsoft.Extensions.Caching.Abstractions.dll
+G:\PC\Stuff\Others\Stuff\Dizertatie\Pagina_web\WebApplication1\WebApplication1\bin\Debug\net452\win7-x86\Microsoft.Extensions.Caching.Memory.dll
+G:\PC\Stuff\Others\Stuff\Dizertatie\Pagina_web\WebApplication1\WebApplication1\bin\Debug\net452\win7-x86\Microsoft.Extensions.Configuration.dll
+G:\PC\Stuff\Others\Stuff\Dizertatie\Pagina_web\WebApplication1\WebApplication1\bin\Debug\net452\win7-x86\Microsoft.Extensions.Configuration.Abstractions.dll
+G:\PC\Stuff\Others\Stuff\Dizertatie\Pagina_web\WebApplication1\WebApplication1\bin\Debug\net452\win7-x86\Microsoft.Extensions.Configuration.Binder.dll
+G:\PC\Stuff\Others\Stuff\Dizertatie\Pagina_web\WebApplication1\WebApplication1\bin\Debug\net452\win7-x86\Microsoft.Extensions.Configuration.EnvironmentVariables.dll
+G:\PC\Stuff\Others\Stuff\Dizertatie\Pagina_web\WebApplication1\WebApplication1\bin\Debug\net452\win7-x86\Microsoft.Extensions.Configuration.FileExtensions.dll
+G:\PC\Stuff\Others\Stuff\Dizertatie\Pagina_web\WebApplication1\WebApplication1\bin\Debug\net452\win7-x86\Microsoft.Extensions.Configuration.Json.dll
+G:\PC\Stuff\Others\Stuff\Dizertatie\Pagina_web\WebApplication1\WebApplication1\bin\Debug\net452\win7-x86\Microsoft.Extensions.DependencyInjection.dll
+G:\PC\Stuff\Others\Stuff\Dizertatie\Pagina_web\WebApplication1\WebApplication1\bin\Debug\net452\win7-x86\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+G:\PC\Stuff\Others\Stuff\Dizertatie\Pagina_web\WebApplication1\WebApplication1\bin\Debug\net452\win7-x86\Microsoft.Extensions.DependencyModel.dll
+G:\PC\Stuff\Others\Stuff\Dizertatie\Pagina_web\WebApplication1\WebApplication1\bin\Debug\net452\win7-x86\Microsoft.Extensions.DiagnosticAdapter.dll
+G:\PC\Stuff\Others\Stuff\Dizertatie\Pagina_web\WebApplication1\WebApplication1\bin\Debug\net452\win7-x86\Microsoft.Extensions.FileProviders.Abstractions.dll
+G:\PC\Stuff\Others\Stuff\Dizertatie\Pagina_web\WebApplication1\WebApplication1\bin\Debug\net452\win7-x86\Microsoft.Extensions.FileProviders.Composite.dll
+G:\PC\Stuff\Others\Stuff\Dizertatie\Pagina_web\WebApplication1\WebApplication1\bin\Debug\net452\win7-x86\Microsoft.Extensions.FileProviders.Physical.dll
+G:\PC\Stuff\Others\Stuff\Dizertatie\Pagina_web\WebApplication1\WebApplication1\bin\Debug\net452\win7-x86\Microsoft.Extensions.FileSystemGlobbing.dll
+G:\PC\Stuff\Others\Stuff\Dizertatie\Pagina_web\WebApplication1\WebApplication1\bin\Debug\net452\win7-x86\Microsoft.Extensions.Globalization.CultureInfoCache.dll
+G:\PC\Stuff\Others\Stuff\Dizertatie\Pagina_web\WebApplication1\WebApplication1\bin\Debug\net452\win7-x86\Microsoft.Extensions.Localization.dll
+G:\PC\Stuff\Others\Stuff\Dizertatie\Pagina_web\WebApplication1\WebApplication1\bin\Debug\net452\win7-x86\Microsoft.Extensions.Localization.Abstractions.dll
+G:\PC\Stuff\Others\Stuff\Dizertatie\Pagina_web\WebApplication1\WebApplication1\bin\Debug\net452\win7-x86\Microsoft.Extensions.Logging.dll
+G:\PC\Stuff\Others\Stuff\Dizertatie\Pagina_web\WebApplication1\WebApplication1\bin\Debug\net452\win7-x86\Microsoft.Extensions.Logging.Abstractions.dll
+G:\PC\Stuff\Others\Stuff\Dizertatie\Pagina_web\WebApplication1\WebApplication1\bin\Debug\net452\win7-x86\Microsoft.Extensions.Logging.Console.dll
+G:\PC\Stuff\Others\Stuff\Dizertatie\Pagina_web\WebApplication1\WebApplication1\bin\Debug\net452\win7-x86\Microsoft.Extensions.Logging.Debug.dll
+G:\PC\Stuff\Others\Stuff\Dizertatie\Pagina_web\WebApplication1\WebApplication1\bin\Debug\net452\win7-x86\Microsoft.Extensions.ObjectPool.dll
+G:\PC\Stuff\Others\Stuff\Dizertatie\Pagina_web\WebApplication1\WebApplication1\bin\Debug\net452\win7-x86\Microsoft.Extensions.Options.dll
+G:\PC\Stuff\Others\Stuff\Dizertatie\Pagina_web\WebApplication1\WebApplication1\bin\Debug\net452\win7-x86\Microsoft.Extensions.Options.ConfigurationExtensions.dll
+G:\PC\Stuff\Others\Stuff\Dizertatie\Pagina_web\WebApplication1\WebApplication1\bin\Debug\net452\win7-x86\Microsoft.Extensions.PlatformAbstractions.dll
+G:\PC\Stuff\Others\Stuff\Dizertatie\Pagina_web\WebApplication1\WebApplication1\bin\Debug\net452\win7-x86\Microsoft.Extensions.Primitives.dll
+G:\PC\Stuff\Others\Stuff\Dizertatie\Pagina_web\WebApplication1\WebApplication1\bin\Debug\net452\win7-x86\Microsoft.Extensions.WebEncoders.dll
+G:\PC\Stuff\Others\Stuff\Dizertatie\Pagina_web\WebApplication1\WebApplication1\bin\Debug\net452\win7-x86\Microsoft.Net.Http.Headers.dll
+G:\PC\Stuff\Others\Stuff\Dizertatie\Pagina_web\WebApplication1\WebApplication1\bin\Debug\net452\win7-x86\Microsoft.VisualStudio.Web.BrowserLink.dll
+G:\PC\Stuff\Others\Stuff\Dizertatie\Pagina_web\WebApplication1\WebApplication1\bin\Debug\net452\win7-x86\Newtonsoft.Json.dll
+G:\PC\Stuff\Others\Stuff\Dizertatie\Pagina_web\WebApplication1\WebApplication1\bin\Debug\net452\win7-x86\System.Buffers.dll
+G:\PC\Stuff\Others\Stuff\Dizertatie\Pagina_web\WebApplication1\WebApplication1\bin\Debug\net452\win7-x86\System.Collections.Immutable.dll
+G:\PC\Stuff\Others\Stuff\Dizertatie\Pagina_web\WebApplication1\WebApplication1\bin\Debug\net452\win7-x86\System.ComponentModel.Primitives.dll
+G:\PC\Stuff\Others\Stuff\Dizertatie\Pagina_web\WebApplication1\WebApplication1\bin\Debug\net452\win7-x86\System.ComponentModel.TypeConverter.dll
+G:\PC\Stuff\Others\Stuff\Dizertatie\Pagina_web\WebApplication1\WebApplication1\bin\Debug\net452\win7-x86\System.Diagnostics.DiagnosticSource.dll
+G:\PC\Stuff\Others\Stuff\Dizertatie\Pagina_web\WebApplication1\WebApplication1\bin\Debug\net452\win7-x86\System.Numerics.Vectors.dll
+G:\PC\Stuff\Others\Stuff\Dizertatie\Pagina_web\WebApplication1\WebApplication1\bin\Debug\net452\win7-x86\System.Reflection.Metadata.dll
+G:\PC\Stuff\Others\Stuff\Dizertatie\Pagina_web\WebApplication1\WebApplication1\bin\Debug\net452\win7-x86\System.Runtime.CompilerServices.Unsafe.dll
+G:\PC\Stuff\Others\Stuff\Dizertatie\Pagina_web\WebApplication1\WebApplication1\bin\Debug\net452\win7-x86\System.Runtime.InteropServices.RuntimeInformation.dll
+G:\PC\Stuff\Others\Stuff\Dizertatie\Pagina_web\WebApplication1\WebApplication1\bin\Debug\net452\win7-x86\System.Text.Encodings.Web.dll
+G:\PC\Stuff\Others\Stuff\Dizertatie\Pagina_web\WebApplication1\WebApplication1\bin\Debug\net452\win7-x86\System.Threading.Tasks.Extensions.dll
+G:\PC\Stuff\Others\Stuff\Dizertatie\Pagina_web\WebApplication1\WebApplication1\obj\Debug\net452\win7-x86\WebApplication1.csprojAssemblyReference.cache
+G:\PC\Stuff\Others\Stuff\Dizertatie\Pagina_web\WebApplication1\WebApplication1\obj\Debug\net452\win7-x86\WebApplication1.exe.config
+G:\PC\Stuff\Others\Stuff\Dizertatie\Pagina_web\WebApplication1\WebApplication1\obj\Debug\net452\win7-x86\WebApplication1.csproj.CoreCompileInputs.cache
+G:\PC\Stuff\Others\Stuff\Dizertatie\Pagina_web\WebApplication1\WebApplication1\obj\Debug\net452\win7-x86\WebApplication1.AssemblyInfoInputs.cache
+G:\PC\Stuff\Others\Stuff\Dizertatie\Pagina_web\WebApplication1\WebApplication1\obj\Debug\net452\win7-x86\WebApplication1.AssemblyInfo.cs
+G:\PC\Stuff\Others\Stuff\Dizertatie\Pagina_web\WebApplication1\WebApplication1\obj\Debug\net452\win7-x86\WebApplication1.csproj.CopyComplete
+G:\PC\Stuff\Others\Stuff\Dizertatie\Pagina_web\WebApplication1\WebApplication1\obj\Debug\net452\win7-x86\WebApplication1.exe
+G:\PC\Stuff\Others\Stuff\Dizertatie\Pagina_web\WebApplication1\WebApplication1\obj\Debug\net452\win7-x86\WebApplication1.pdb

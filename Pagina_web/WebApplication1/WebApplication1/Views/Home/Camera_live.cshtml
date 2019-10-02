@@ -1,0 +1,161 @@
+﻿@{
+    <center><h2>@ViewData["Title"]Cameră live Piața Mare</h2></center>
+}
+<center><h5>@ViewData["Title"]sursă: Primăria Sibiu</h5></center>
+<h3>@ViewData["Message"]</h3>
+<div style="width:650px; margin:0 auto;">
+    <script type="text/javascript">
+        function debugmsg(k) { };
+    </script>
+    <script language="JavaScript" type="text/JavaScript">
+        function MM_reloadPage(init) {
+            if (init == true) with (navigator) {
+                if ((appName == "Netscape") && (parseInt(appVersion) == 4)) {
+                    document.MM_pgW = innerWidth; document.MM_pgH = innerHeight; onresize = MM_reloadPage;
+                }
+            }
+            else if (innerWidth != document.MM_pgW || innerHeight != document.MM_pgH) location.reload();
+        }
+        MM_reloadPage(true);
+    </script>
+    <body bgcolor="#000000" onLoad="if (document.all &amp; document.all.CamPic);animation_init();">
+        <noscript>
+            <p><img name="CamPic" src="http://www.sibiu.ro/webcamfeeds/webcam2.jpg" alt="Sibiu webcam"></p>
+        </noscript>
+        <form name="dkdk">
+            <img name="CamPic" src="http://www.sibiu.ro/webcamfeeds/webcam2.jpg" alt="Sibiu Camera Live Image.">
+        </form>
+        <script language="JavaScript">
+            var pic_url = "http://www.sibiu.ro/webcamfeeds/webcam2.jpg";
+            var noframepath = "http://www.sibiu.ro/webcamfeeds/webcam2.jpg";
+            var n = Math.floor(Math.random() * 1000000);
+            var session_id = Math.floor(Math.random() * 1000000);
+            var startn = n;
+            var GetItOn = 1;
+            var framerate = 1;
+            var buffer = new Image();
+            var aktiv = null;
+            var db_enabled = 0;
+            var passiv = null;
+
+            function DoComplete() {
+                if (db_enabled != 0) {
+                    if (db_enabled < 0) {
+                        document.CamPic.style.display = "";
+                        buffer.style.display = "none";
+                    } else {
+                        buffer.style.display = "";
+                        document.CamPic.style.display = "none";
+                    }
+                    db_enabled *= -1;
+                } else {
+                    document.CamPic.src = buffer.src;
+                }
+                GetItOn = 1;
+                if (current_refresh_method_nr == 1 && framerate > 0) {
+                    if (passiv == null)
+                        Animation();
+                    else
+                        debugmsg("timer for Animation() already started...");
+                }
+            }
+            function LoadError() {
+                debugmsg("LoadError:#" + (n - 1) + "  db:" + db_enabled);
+                if (db_enabled != 0) {
+                    db_enabled *= -1;
+                } else {
+                    document.CamPic.src = noframepath;
+                }
+                GetItOn = 1;
+                if (current_refresh_method_nr == 1 && framerate > 0)
+                    passiv = setTimeout("passiv=null;Animation();", 1000);
+            }
+
+            function setframerate() {
+                framerate = 2;
+                debugmsg("setframerate: aktiv=" + aktiv + " rm=" + current_refresh_method_nr + " fps=" + framerate);
+                if (aktiv) {
+                    window.clearInterval(aktiv);
+                    aktiv = null;
+                }
+                document.CamPic.onerror = null;
+                buffer.onerror = null;
+                if (framerate < 0) {
+                    if (current_refresh_method_nr == 2) {
+                        GetItOn = 1; Animation();
+                    }
+                    return;
+                }
+                if (current_refresh_method_nr == 2) {
+                    buffer.onload = null;
+                    buffer.onerror = null;
+                    document.CamPic.onload = null;
+                    document.CamPic.onerror = function () { setTimeout("setframerate();", 500) };
+                    document.CamPic.src = "http://www.sibiu.ro/webcamfeeds/webcam2.jpg" + String(n++);
+                    return;
+                } else if (current_refresh_method_nr == 1) {
+                    session_id++;
+                    Animation();
+                    return;
+                }
+                aktiv = window.setInterval("Animation()", 1000 / framerate);
+                GetItOn = 1;
+                Animation();
+            }
+            function Animation() {
+                var my_rm_nr = current_refresh_method_nr;
+                var my_fr = framerate;
+                var my_session = session_id;
+
+                if (GetItOn == 1 || (my_rm_nr == 1 && my_fr > 0)) {
+                    GetItOn = 0;
+                    if (db_enabled < 0) {
+                        buffer.onerror = buffer.onload = null;
+                        document.CamPic.onerror = LoadError;
+                        document.CamPic.onload = DoComplete;
+                        if (my_rm_nr == 0)
+                            document.CamPic.src = pic_url + "?rand=" + String(n++);
+                        else
+                            document.CamPic.src = pic_url + "?sync=" + my_fr + "&session=" + my_session + "&rand=" + String(n++);
+                    } else {
+                        document.CamPic.onerror = document.CamPic.onload = null
+                        buffer.onerror = LoadError;
+                        buffer.onload = DoComplete;
+                        if (my_rm_nr == 0)
+                            buffer.src = pic_url + "?rand=" + String(n++);
+                        else
+                            buffer.src = pic_url + "?sync=" + my_fr + "&session=" + my_session + "&rand=" + String(n++);
+                    }
+                }
+            }
+            function animation_init() {
+                if (document.all && (navigator.platform.substr(0, 3) != "Mac")) {
+                    document.CamPic.insertAdjacentHTML("AfterEnd", "<img border=0 style=\"display:none;\" name=dbbuffer></b>");
+                    buffer = document.dbbuffer;
+                    db_enabled = 1;
+                }
+                setframerate();
+            }
+        </script>
+        <script language='JavaScript' type='text/javascript'>
+            function getframerate() {
+                var obj = document.dkdk.recordmult;
+                return obj.options[obj.selectedIndex].value;
+            }
+        </script>
+        <script language="JavaScript" type="text/javascript">
+            var current_refresh_method_nr = 0;
+            var refreshmethods_type = new Array(0, 0, 0, 1, 2);
+            function refreshMethod(new_value) {
+                if (refreshmethods_type[new_value] != refreshmethods_type[current_refresh_method_nr]) {
+                    var url = location.href.split("?");
+                    location.href = url[0] + "?REFRESHMETHOD=" + new_value;
+                } else {
+                    current_refresh_method_nr = new_value;
+                    setframerate();
+                }
+            }
+        </script>
+    </body>
+    <script src="js/jquery.lightbox.min.js"></script>
+</div>
