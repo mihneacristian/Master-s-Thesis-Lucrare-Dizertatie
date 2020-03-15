@@ -1,5 +1,4 @@
 Web GIS Application for Promoting the History and the Patrimony of Sibiu
-Aplicatie webGIS pentru promovarea istoriei si patrimoniului orasului Sibiu
 
 The application was built using: HTML, CSS, JS, Bootstrap and the ASP.Net framework.
 The project was built using Microsoft Visual Studio 2017.
