@@ -1,7 +1,8 @@
-# Master-s-Thesis-Lucrare-Dizertatie
-Master's Thesis / Lucrare Dizertatie - Aplicatie webGIS pentru promovarea istoriei si patrimoniului orasului Sibiu
+Web GIS Application for Promoting the History and the Patrimony of Sibiu
+Aplicatie webGIS pentru promovarea istoriei si patrimoniului orasului Sibiu
 
-The website was built using: HTML, CSS, JS, Bootstrap and the ASP.Net framework. The project was created using Microsoft Visual Studio 2017.
+The application was built using: HTML, CSS, JS, Bootstrap and the ASP.Net framework.
+The project was built using Microsoft Visual Studio 2017.
 
 https://qgiscloud.com/mihneacristianpopa/Patrimoniu_Sibiu/mobile
 https://qgiscloud.com/mihneacristianpopa/Harta_web_Piata_Huet/mobile
